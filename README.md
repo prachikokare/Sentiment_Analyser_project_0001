@@ -84,4 +84,4 @@ Deploy online for public access using Render or Streamlit Cloud.
 
 Author
 
-Prachi Kokare – GitHub Profile
+Prachi Kokare – GitHub Profile(https://github.com/prachikokare)
